@@ -1,0 +1,16 @@
+{
+  "Type": "content",
+  "ModID": "romegladi",
+  "Name": "RomeGladi",
+  "Description": "add new armor and recipes",
+  "Authors": [
+    "Nezzych"
+  ],
+  "Contributors": [],
+  "Version": "1.0.0",
+  "Dependencies": {
+    "game": "1.21.0"
+  },
+  "RequiredOnClient": true,
+  "RequiredOnServer": true
+}

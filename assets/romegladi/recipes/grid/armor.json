@@ -1,0 +1,27 @@
+[
+{
+	"ingredientPattern": "PBP,PRP,W_B",
+	"ingredients": {
+		"W": {"type": "item", "code": "game:cloth-white"},
+		"R": {"type": "item", "code": "game:cloth-red" },
+		"B": {"type": "item", "code": "game:cloth-black" },
+		"P": {"type": "item", "code": "game:metalplate-gold" }
+	},
+	"width": 3,
+	"height": 3,
+	"shapeless": false,
+	"output": {"type": "item", "code": "romegladi:romebody"}
+},
+{
+	"ingredientPattern": "RBR,PPP",
+	"ingredients": {
+		"R": {"type": "item", "code": "game:cloth-red"},
+		"B": {"type": "item", "code": "game:cloth-black" },
+		"P": {"type": "item", "code": "game:metalplate-gold" }
+	},
+	"width": 3,
+	"height": 2,
+	"shapeless": false,
+	"output": {"type": "item", "code": "romegladi:romehelm"}
+}
+]

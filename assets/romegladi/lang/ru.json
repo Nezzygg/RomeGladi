@@ -1,0 +1,11 @@
+{
+  "game:tabname-romegladi": "RomeGladi",	
+
+  
+   
+   "romegladi:item-romebody": "Римская кираса",
+   "romegladi:itemdesc-romebody": "<font color=\"#669966\"><i>Эта кираса была выкована в закатные годы Старого Мира.<\/i><\/font><br>",
+   "romegladi:itemdesc-romehelm":"<font color=\"#669966\"><i>Шлем, который был выкован в закатные годы Старого Мира.<\/i><\/font><br>",
+   "romegladi:item-romehelm":"Римский шлем"
+   
+}

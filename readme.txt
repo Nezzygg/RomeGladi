@@ -1,0 +1,1 @@
+This mod adds a new Spartan-style helmet and chestplate to the game

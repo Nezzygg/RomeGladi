@@ -1,0 +1,34 @@
+[
+ {
+    "ingredientPattern": "P,R",
+		"recipeGroup": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "romebody"  },
+			"P": { "type": "item", "code": "game:metalplate-gold" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "R",
+		"averageDurability": false,
+		"name": "romebody repair",
+		"output": { "type": "item", "code": "romebody"  }
+	},
+{
+	"ingredientPattern": "P,R",
+		"recipeGroup": 2,
+		"ingredients": {
+			"R": { "type": "item", "code": "romehelm"  },
+			"P": { "type": "item", "code": "game:metalplate-gold" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"copyAttributesFrom": "R",
+		"averageDurability": false,
+		"name": "romehelm repair",
+		"output": { "type": "item", "code": "romehelm"  }
+	}
+]
+		
+

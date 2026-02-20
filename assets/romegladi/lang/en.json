@@ -1,0 +1,9 @@
+{
+  "game:tabname-romegladi": "RomeGladi",	
+
+  "romegladi:item-romebody": "Roman Body Armor",
+   "romegladi:itemdesc-romebody": "<font color=\"#669966\"><i>This armor was forged in the dying years of the Old World.<\/i><\/font><br>",
+   "romegladi:itemdesc-romehelm":"<font color=\"#669966\"><i>A helmet forged in the dying years of the Old World.<\/i><\/font><br>",
+   "romegladi:item-romehelm":"Roman Helmet"
+
+}
